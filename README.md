@@ -9,5 +9,5 @@ Starting from the current head position, what is the total distance (in cylinder
 NOTE To get the desired output as per question execute repositories which have file name -- CSCANpart5 or visit this link-- https://github.com/Roushan97/CSCANpart5/tree/master
 
 
-Now coming to excute file-- first open terminal complie code with <gcc cse2.c>
+Now coming to excute file-- first open terminal complie code with < gcc cse2.c >
 then<./a.out> without <> Enter the value as per the question.
