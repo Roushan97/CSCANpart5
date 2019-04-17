@@ -86,7 +86,7 @@ int main()
             seek_time = seek_time + diff;
             printf("\nDisk Head:\t%d -> %d [Seek Time: %d]\n", queue3[j], queue3[j + 1], diff);
       }
-      printf("\nTotal distance in cylinder:\t%d\n", seek_time);
+      printf("\nTotal distance travelled:\t%d\n", seek_time);
       avg_seek_time = seek_time / (float)limit;
       //printf("\nCurrent head position:\t%f\n", avg_seek_time);
       return 0;
