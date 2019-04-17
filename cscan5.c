@@ -88,6 +88,6 @@ int main()
       }
       printf("\nTotal distance travelled:\t%d\n", seek_time);
       avg_seek_time = seek_time / (float)limit;
-      //printf("\nCurrent head position:\t%f\n", avg_seek_time);
+      printf("\nCurrent head position:\t%f\n", avg_seek_time);
       return 0;
 }
